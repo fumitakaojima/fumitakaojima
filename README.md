@@ -20,6 +20,6 @@ Cursor上のClaude Codeを使い、記事制作から社内CMSへの公開まで
 
 ## 詳しい仕事の記録
 
-**Webポートフォリオ：[仕事の記録](https://ojima-byte.github.io/pdm-portfolio/)**
+**Webポートフォリオ：[仕事の記録](https://fumitakaojima.github.io/pdm-portfolio/)**
 
 各事例について、課題・設計判断・実行と結果を詳しく紹介しています。
