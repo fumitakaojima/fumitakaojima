@@ -30,6 +30,6 @@ Webメディア事業で、新しい領域の立ち上げやAIを活用した仕
 
 ## 詳しい仕事の記録
 
-**[Webポートフォリオを見る](https://fumitakaojima.github.io/pdm-portfolio/)**
+**[これまでの仕事の記録を見る](https://fumitakaojima.github.io/pdm-portfolio/)**
 
 各事例の課題、設計判断、実行までの過程を紹介しています。
